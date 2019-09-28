@@ -1,0 +1,200 @@
+#cadastro{
+    display: none;
+    margin: 20px 30px 40px 10px;
+    margin-left: 40%;
+
+}
+
+#cadastroDeLivros{
+    display: none;
+}
+
+#bodyLogin{
+    background-color: rgb(214, 198, 198);
+    background-image: url("livros_login.png")
+
+}
+
+#bodyIndex {
+    background-image: url("livros_index.png")
+}
+
+#loginInicial{
+    margin: 20px 30px 40px 10px;
+    margin-left: 40%;
+}
+
+#botao1{
+ margin-left: 89px;
+ border-width: 4px;
+ background-color: white;
+ font-family: cursive;
+
+}
+
+#entrar {
+
+    margin-left: 15%;
+    border-width: 4px;
+    background-color: white;
+    font-family: cursive;
+
+}
+
+#minha {
+    margin-left: 38%;
+    font-family: cursive;
+    color: ivory;
+}
+
+#botaoCadastro{
+    margin-left: 95px;
+    margin-top: 5px;
+    border-width: 4px;
+    background-color: white;
+    font-family: cursive;
+}
+
+#logins {
+    font-family: cursive;
+}
+
+#botaoCadastrar{
+
+    margin-left: 98px;
+    border-width: 4px;
+    background-color: white;
+    font-family: cursive;
+
+}
+
+#livro {
+    margin-left: 39%;
+}
+
+#bannerDoIndex {
+
+    margin-left: 450px;
+    font-family: cursive;
+    color: white; 
+}
+
+#cadastroDeLivros{
+    margin-left: 39%;
+}
+
+#botaoCadastrarLivros{
+    margin-left: 20;
+    border-width: 4px;
+    background-color: white;
+    font-family: cursive;
+}
+
+#botaoUltimo{
+    border-width: 4px;
+    background-color: white;
+    font-family: cursive;
+
+}
+
+#listaDeLivros{
+    border-color: rgb(255, 255, 255);
+    font-family:  cursive;
+    font-size: 21px;
+    color: white;
+    margin-right: 30% ;
+    
+}
+
+#testeParagrafo{
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 10% 
+}
+
+#botaoListar{
+    margin-left: 14%;
+    font-family: cursive;
+    color: black;
+    background-color: white;
+    border-width: 4px;
+    size: 40px;
+}
+
+#botaoEstilizado {
+    margin-left: 15%;
+    font-family: cursive;
+    color: black;
+    background-color: white;
+    border-width: 4px;
+    size: 40px;
+
+}
+
+#loginNome{
+    font-family: cursive;
+    color: white;
+}
+
+#testeSamp{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+}
+
+#testeSamp2{
+
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp3{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp4{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp5{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+}
+
+#testeSamp6{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp7{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp8{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}
+
+#testeSamp9{
+    font-family: cursive;
+    color: white;
+    font-size: 25px;
+
+}

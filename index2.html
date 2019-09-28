@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="login.css" />
+</head>
+
+<body id="bodyIndex">
+    <h1 id="bannerDoIndex">Bem Vindo a Biblioteca Virtual!</h1>
+
+    <div id="livro">
+        <button id="botaoListar">Cadastrar</button>
+
+        <form id="listarLivros" method="get" onclick="exibirLivros()">
+            <p id="testeParagrafo">Listar Livros</p>
+
+            <input id="botaoEstilizado" type="submit" name="submit" value="Listar" />
+
+        </form>
+        <table id="listaDeLivros" border="4" bgcolor="#00BFFF">
+
+            <tr>
+                <th>Título</th>
+                <th>Categoria</th>
+                <th>Ano</th>
+                <th>Autor </th>
+            </tr>
+
+
+        </table>
+
+    </div>
+
+
+    <div id="cadastroDeLivros">
+        <button id="botaoCadastrarLivros">Listar </button>
+        <form id="formularioLivros" method="get">
+            <samp id="testeSamp6">Título</samp>
+            <p>
+                <input id="titulo" type="text" required>
+            </p>
+            <samp id="testeSamp7">Categoria</samp>
+            <p>
+                <select id="categoriaLivro" type="text">
+                    <option value="Biografia"> Biografia </option>
+                    <option value="Contos">Contos</option>
+                    <option value="Ficção Científica">Ficção Científica </option>
+                    <option value="Folclore">Folclore </option>
+                    <option value="Poesia">Poesia</option>
+
+                </select>
+            </p>
+
+            <samp id="testeSamp8">Ano</samp>
+            <p>
+                <input id="anoLivro" type="number">
+            </p>
+            <samp id="testeSamp9">Autor</samp>
+            <p>
+                <input id="autorLivro" type="text">
+            </p>
+
+            <p>
+                <input id="botaoUltimo" type="submit" name="submit" value="Cadastrar Livro" />
+            </p>
+
+        </form>
+    </div>
+
+
+    <script lang="javascript" src="index2.js"></script>
+
+</body>
+
+</html>
